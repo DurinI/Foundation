@@ -1,0 +1,19 @@
+{
+    "name": "DurinI/Foundation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aron Wouters",
+            "email": "aronwouters@eyedouble.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Durin\\Foundation" : "/"
+        }
+    }
+}
